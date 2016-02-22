@@ -1,0 +1,21 @@
+[
+{
+	"id" : "Stopwatch",
+	"caption": "Stopwatch",
+	"children":
+	[
+	{
+		"caption" : "Start",
+		"command" : "StopwatchStart"
+	},
+	{
+		"caption" : "Stop",
+		"command" : "StopwatchStop"
+	},
+	{
+		"caption" : "Pause",
+		"command" : "StopwatchPause"
+	}
+	]
+}
+]

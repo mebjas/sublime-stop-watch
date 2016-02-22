@@ -1,0 +1,22 @@
+[
+{
+	"id" : "Stopwatch",
+	"caption": "Stopwatch",
+	"children":
+	[
+	{
+		"caption" : "Start",
+		"command" : "StopwatchStart",
+		"keys": ["super+shift+0"]
+	},
+	{
+		"caption" : "Stop",
+		"command" : "StopwatchStop"
+	},
+	{
+		"caption" : "Pause",
+		"command" : "StopwatchPause"
+	}
+	]
+}
+]
